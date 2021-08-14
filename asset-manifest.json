@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kaustubhm1997.github.io/csb-uqk5p/static/css/main.4e9a8464.chunk.css",
+    "main.js": "https://kaustubhm1997.github.io/csb-uqk5p/static/js/main.a18797a3.chunk.js",
+    "main.js.map": "https://kaustubhm1997.github.io/csb-uqk5p/static/js/main.a18797a3.chunk.js.map",
+    "runtime-main.js": "https://kaustubhm1997.github.io/csb-uqk5p/static/js/runtime-main.d8947051.js",
+    "runtime-main.js.map": "https://kaustubhm1997.github.io/csb-uqk5p/static/js/runtime-main.d8947051.js.map",
+    "static/js/2.fc9c8ee5.chunk.js": "https://kaustubhm1997.github.io/csb-uqk5p/static/js/2.fc9c8ee5.chunk.js",
+    "static/js/2.fc9c8ee5.chunk.js.map": "https://kaustubhm1997.github.io/csb-uqk5p/static/js/2.fc9c8ee5.chunk.js.map",
+    "index.html": "https://kaustubhm1997.github.io/csb-uqk5p/index.html",
+    "static/css/main.4e9a8464.chunk.css.map": "https://kaustubhm1997.github.io/csb-uqk5p/static/css/main.4e9a8464.chunk.css.map",
+    "static/js/2.fc9c8ee5.chunk.js.LICENSE.txt": "https://kaustubhm1997.github.io/csb-uqk5p/static/js/2.fc9c8ee5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8947051.js",
+    "static/js/2.fc9c8ee5.chunk.js",
+    "static/css/main.4e9a8464.chunk.css",
+    "static/js/main.a18797a3.chunk.js"
+  ]
+}
